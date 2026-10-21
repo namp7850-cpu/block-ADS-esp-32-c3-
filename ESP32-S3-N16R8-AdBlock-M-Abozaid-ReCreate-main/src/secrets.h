@@ -1,8 +1,8 @@
 #ifndef SECRETS_H
 #define SECRETS_H
 
-#define WIFI_SSID "Tran 2g"
-#define WIFI_PASS "thanhhien1303"
+#define WIFI_SSID "name wifi"
+#define WIFI_PASS "pass wifi "
 
 #define WEB_USER "admin"
 #define WEB_PASS "admin"
