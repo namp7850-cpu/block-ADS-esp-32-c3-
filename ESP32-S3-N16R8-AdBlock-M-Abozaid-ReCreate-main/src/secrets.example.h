@@ -1,8 +1,8 @@
 Set-Content -Path src\secrets.h -Value '#ifndef SECRETS_H
 #define SECRETS_H
 
-#define WIFI_SSID "Tran 2g"
-#define WIFI_PASS "thanhhien1303"
+#define WIFI_SSID ".................."
+#define WIFI_PASS "..................."
 
 #define WEB_USER "admin"
 #define WEB_PASS "admin"
