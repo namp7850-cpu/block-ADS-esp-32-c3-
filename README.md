@@ -26,10 +26,10 @@ Sau khi nạp Firmware, kết nối vào Wi-Fi phát ra từ ESP32 (C3-AdBlock-S
 Tải tệp blocklist.bin về máy tính.
 Mở Web Dashboard của ESP32 (http://<IP_ESP32>), chọn mục Blocklist -> Upload và tải tệp blocklist.bin lên.
 🔌 2. Lắp Đặt Phần Cứng & Cấu Hình Modem/Router (FPT)
-A. Kết Nối Phần Cứng
+ A. Kết Nối Phần Cứng
 Rút ESP32 khỏi máy tính và cắm nguồn cố định qua củ sạc 5V hoặc cổng USB đằng sau Modem/Router.
 Dữ liệu danh sách chặn đã lưu vĩnh viễn trên bộ nhớ Flash nên không bị mất khi rút điện.
-B. Cấu Hình Trên Modem FPT (Áp dụng toàn mạng)
+ B. Cấu Hình Trên Modem FPT (Áp dụng toàn mạng)
 Bước 1: Gán IP Cố Định (Reserved IP / Static Lease)
 Vào trang quản trị Modem (192.168.1.1 hoặc 192.168.100.1) -> LAN / Setup -> DHCP Static IP:
 MAC Address: 98:c3:77:60:d6:88 (Địa chỉ MAC của ESP32)
